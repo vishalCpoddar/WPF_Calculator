@@ -1,0 +1,15 @@
+C:\Projects\VCalculator\VCalculator\bin\Debug\VCalculator.exe.config
+C:\Projects\VCalculator\VCalculator\bin\Debug\VCalculator.exe
+C:\Projects\VCalculator\VCalculator\bin\Debug\VCalculator.pdb
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator.csprojAssemblyReference.cache
+C:\Projects\VCalculator\VCalculator\obj\Debug\MainWindow.g.cs
+C:\Projects\VCalculator\VCalculator\obj\Debug\App.g.cs
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator_MarkupCompile.cache
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator_MarkupCompile.lref
+C:\Projects\VCalculator\VCalculator\obj\Debug\MainWindow.baml
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator.g.resources
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator.Properties.Resources.resources
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator.csproj.GenerateResource.cache
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator.exe
+C:\Projects\VCalculator\VCalculator\obj\Debug\VCalculator.pdb
