@@ -1,0 +1,15 @@
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\bin\Release\VCalculator.exe.config
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\bin\Release\VCalculator.exe
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\bin\Release\VCalculator.pdb
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator.csprojAssemblyReference.cache
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\MainWindow.g.cs
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\App.g.cs
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator_MarkupCompile.cache
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator_MarkupCompile.lref
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\MainWindow.baml
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator.g.resources
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator.Properties.Resources.resources
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator.csproj.GenerateResource.cache
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator.exe
+C:\Users\vpoddar\Documents\GitHub\WPF_Calculator\VCalculator\obj\Release\VCalculator.pdb
